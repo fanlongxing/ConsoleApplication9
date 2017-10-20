@@ -6,19 +6,6 @@
 
 using namespace std;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 class CExample {
 private:
 	int a;
